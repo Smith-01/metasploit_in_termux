@@ -1,11 +1,49 @@
 #!/data/data/com.termux/files/usr/bin/bash
 clear
 echo "
-    +-+-+-+-+-+-+-+-+-+-+ +-+-+ +-+-+-+-+-+-+
-    |M|e|t|a|s|p|l|o|i|t| |i|n| |T|e|r|m|u|x|
-    +-+-+-+-+-+-+-+-+-+-+ +-+-+ +-+-+-+-+-+-+
+                                                                                    
+                                                                                
+                                                                                
+                                `.://++++++/:-.                                 
+                          `:+ooooooso+++++oossssooo/-                           
+                      `:ooooo+++/-.         `.-/+++oooo+-                       
+                    /so+oo+-    /`    .do/h    .::``-+oooso-                    
+                 .os+oo:       -hs/    yooh   /y.`s:   `/ooos/                  
+               .so/s+`  :d/    :h+ss` `s/ s`  +o`..    so.`+s+s+                
+              os/y/  /y+//h/   :/ .-//++++/:-` .//`   sm- /+`/s+y:              
+            -h/s+    `-h+:/s``/ssso//////////osso:` `os /dy-. `osos`            
+           /y:y.        s+`+ys::ohmNMMMMMMMMNdy+:/yy/  -h/    `:-h/h.           
+          +s/y  /o+/:.` .sy::yNMm+/:-......-:/oNMms-+h+`      +h-`y/h.          
+         /y/s   `soy-o`oh-/mMMMMh/``........``/dMMMMh-/d/   /omosh`y/d.         
+        .d-h      :h..d+.hMNmddhs+..--------..oyhddmMMs.ys  --   ```h/h         
+ /++++++oooo+++++++o+m:-NMN:````-o````````````o-````/MMd`sh+++++++++oos++++++++ 
+ mMMMMMMMMm-yMMMMMMMM/.NMMMMds/-.`---:-:------`.-/smMMMMd`yMMMMMMMMoyMMMMMMMMMN 
+ mMMMMMMMMy  +MMMMMMh hMMMMMMMMMds/---:++:---+sdMMMMMMMMMo`NMMMMMN: .NMMMMMMMMN 
+ mMMMMMMs`hh` -mMMMM/.MMMMMMMMMMMho..`.dh.`.-shMMMMMMMMMMm yMMMMd. -mo:NMMMMMMN 
+ mMMMMM/  sNy` `hMMM./MMMMMMMMMMNmmmmdh::ddmmmmMMMMMMMMMMM`+MMMs  :mN. .mMMMMMN 
+ mMMMN: `hM/--.  sMM.:MMMMMMMMMMMMys:NmhhmN-yhMMMMMMMMMMMM`+MN/  ...hN: `hMMMMN 
+ mMMMy//mMMMMMMy//mM/`NMMMMMMMMMMmdm+hdhdhh+mdmMMMMMMMMMMd yMh//dMMMMMMo/+MMMMN 
+ hmmmmmmmmmmmmmmmmmmd sMMMMMMmhy+sMmdmdhhdddmMsoydNMMMMMM/`Nmmmmmmmmmmmmmmmmmmd 
+       .s-+   `:+/` d+`ys+:.     :MMMmdddmmMMm.    `.:+so ho /s:` `  o:s        
+        h:d.  d/..s-`m/           /MMMo  hMMm.           sy  .shoho -hs/        
+        .d:h  y-` +: `ho           /MMy  dMN.          `hs -+//od: `h+h         
+         :h/y  :/   d+ +h-          /M:  oN-          +d:  /oys+:  y+d`         
+          /y/y     oh:y:`sh:         /`  .-        `+h+ --`   :o `y+h.          
+           :h/y. -hy:-.../`/ys/`                .+yy:   hsydys` -hoh`           
+            .y+s+  `   -do+s``:ssso/:-...--:+ssso-./o/  .No ` `osso             
+              /y+s/  .om-/yy``ho+:.-://++//:--:+./N://`` y/  /ssy-              
+               `osos+` .++y. om+:+`-m/o/   :osh.` :N::s+  `+ssy:                
+                 `+sooo:`   /d+-/. /d/ys      N:  `o/` `/osss:                  
+                    -ossso+-   ./`.so`-h`    `+/`  `-+oyys+`                    
+                       .+osss+++/-.`        `.-/++oyyoo/`                       
+                           ./ooosyyyyssssssyyyysoo+:`                           
+                                 `.-::////:--`                                  
+                                                                                
+                                                                                
+                                                                                
+
             +-+-+ +-+-+-+-+-+-+-+-+-+-+
-            |b|y| |G|u|s|h|m|a|z|u|k|o|
+                [!] By Smith01 [!]
             +-+-+ +-+-+-+-+-+-+-+-+-+-+
 "
 
